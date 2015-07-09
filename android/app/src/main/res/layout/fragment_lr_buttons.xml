@@ -1,0 +1,36 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pauln.carcontrol.MoveButtonsFragment"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/moveRightButton"
+            android:src="@drawable/ic_right"
+
+            android:layout_alignTop="@+id/moveLeftButton"
+            android:layout_toRightOf="@+id/moveLeftButton"
+            android:layout_toEndOf="@+id/moveLeftButton"/>
+
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/moveLeftButton"
+            android:src="@drawable/ic_left"
+
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="false"/>
+
+    </RelativeLayout>
+
+</FrameLayout>

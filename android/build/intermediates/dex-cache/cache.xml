@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Tuba/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Tuba/Desktop/adam/emanet_android/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-98296c75b1fb2225722b9f4add7013294c4ff7b8.jar" />
+    </item>
+    <item
+        jar="/Users/Tuba/Desktop/SSRasCar/raspbicodes/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Tuba/Desktop/SSRasCar/raspbicodes/android/app/build/intermediates/pre-dexed/debug/classes-1706a2bf2a2c527420a722fafc05e3a9a91a5d59.jar" />
+    </item>
+    <item
+        jar="/Users/Tuba/Desktop/adam/emanet_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Tuba/Desktop/adam/emanet_android/app/build/intermediates/pre-dexed/debug/classes-9d706c325838627b3278a1875c0804b493c6d926.jar" />
+    </item>
+    <item
+        jar="/Users/Tuba/Desktop/SSRasCar/raspbicodes/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Tuba/Desktop/SSRasCar/raspbicodes/android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-bf476b8d4641d963d3d5fc3e4e7adeb2ca8948dd.jar" />
+    </item>
+    <item
+        jar="/Users/Tuba/Desktop/adam/emanet_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Tuba/Desktop/adam/emanet_android/app/build/intermediates/pre-dexed/debug/classes-7d61a2a37d8b930978997875799a543d3c837b39.jar" />
+    </item>
+    <item
+        jar="/Users/Tuba/Desktop/SSRasCar/raspbicodes/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Tuba/Desktop/SSRasCar/raspbicodes/android/app/build/intermediates/pre-dexed/debug/classes-b5fe5a7a14c6289378261e9c55196bdf67a17474.jar" />
+    </item>
+    <item
+        jar="/Users/Tuba/Desktop/adam/emanet_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Tuba/Desktop/adam/emanet_android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-dfdb7bf64fe77765e5c53a2bf8f754cc13bbe62d.jar" />
+    </item>
+
+</items>
